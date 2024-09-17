@@ -2,6 +2,10 @@
 
 This repository contains code for training and evaluating various deep learning models to classify cataract images. The models used include ConvNet, VGG16, ResNet50, InceptionV3, MobileNetV2, and DenseNet121. The primary aim is to aid in the automated diagnosis of cataracts using image classification techniques.
 
+
+<img src="https://github.com/user-attachments/assets/2e5441f6-4ef8-4d4a-8d24-20192f3e3bc0" width="100%" />
+
+
 ## Dataset
 
 The dataset used in this project comprises images of eyes with and without cataracts. The images are divided into training and test sets.
